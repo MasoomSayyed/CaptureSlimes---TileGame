@@ -22,4 +22,4 @@ Another one was to get the origin for grid, I used chat GPT to find the solution
 
 1. Chat GPT.
 2. Unity Asset Store music files. BY -> Leohpaz.
-3 Textures for selection and slime from Freepik.
+3. Textures for selection and slime from Freepik.
