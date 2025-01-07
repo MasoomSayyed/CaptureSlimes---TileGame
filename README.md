@@ -20,6 +20,6 @@ Another one was to get the origin for grid, I used chat GPT to find the solution
 
 <------------------- External Resources --------------->
 
-1. Chat GPT.
+1. Meta AI
 2. Unity Asset Store music files. BY -> Leohpaz.
 3. Textures for selection and slime from Freepik.
